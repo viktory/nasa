@@ -1,3 +1,16 @@
+# Dev notes
+1. I did not count time I have spent on setting up this project (cca 30 mins including playing with eslint rules)
+2. I did not spend much time configuring esLint rules (just took Airbnb and rewrite couple of rules)
+
+### Areas to improve
+1. Preload images/hide imageBar while image loading/show loader
+2. Modify GET params based on "page" and "q" and "nasa_id" (if modal is opened)
+3. Improve error handling (logic and design)
+4. Test coverage
+
+
+-----
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
